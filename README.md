@@ -48,17 +48,23 @@ SQL queries were used to calculate and validate important business metrics.
 
 Example queries:
 
-Total Revenue
+• Total Revenue
 
-SELECT SUM(total_price) AS total_revenue FROM pizza_sales;
+SELECT SUM(total_price) AS total_revenue 
 
-Total Orders
+FROM pizza_sales;
 
-SELECT COUNT(DISTINCT order_id) AS total_orders FROM pizza_sales;
+• Total Orders
 
-Average Pizzas per Order
+SELECT COUNT(DISTINCT order_id) AS total_orders 
 
-SELECT SUM(quantity) / COUNT(DISTINCT order_id) AS avg_pizzas_per_order FROM pizza_sales;
+FROM pizza_sales;
+
+• Average Pizzas per Order
+
+SELECT SUM(quantity) / COUNT(DISTINCT order_id) AS avg_pizzas_per_order
+
+FROM pizza_sales;
 
 📈 Dashboard Analysis
 
