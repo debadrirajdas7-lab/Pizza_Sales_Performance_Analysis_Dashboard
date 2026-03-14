@@ -76,8 +76,16 @@ The Power BI dashboard provides insights through the following analysis:
 
 • Orders by day of the week
 
+These visualizations help identify high-performing products and sales patterns.
+
 See the full Dashboard  here - [Power BI app link](https://app.powerbi.com/view?r=eyJrIjoiNjFlN2E2NDItYzJjMy00MzZiLWI3MzEtMmI5YmJlZGU1YTQyIiwidCI6IjJhODhmMzcyLTZmOWEtNDQ3YS1iY2MyLWRjYzYzODgzN2JhMyJ9)
 
 
 ![Portfolio Dashboard 1st page](pizza_sales_analytics.png)
 ![Portfolio Dashboard 2nd page](2nd_page_dashboard.png)
+
+📊 Conclusion
+
+• This project demonstrates how SQL and Microsoft Power BI can be used together to analyze sales data and generate meaningful business insights through interactive dashboards.
+
+• The analysis highlights customer preferences, product performance, and sales trends that can support strategic business decisions.
