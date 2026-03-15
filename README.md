@@ -88,11 +88,10 @@ FROM pizza_sales;
 
 • Top 5 Best-Selling Pizzas
 
-SELECT pizza_name, SUM(quantity) AS Total_Sold
+SELECT TOP 5 pizza_name, SUM(quantity) AS Total_Sold
 FROM pizza_sales
 GROUP BY pizza_name
-ORDER BY Total_Sold DESC
-LIMIT 5;
+ORDER BY Total_Sold DESC;
 
 • Sales by Pizza Category
 
