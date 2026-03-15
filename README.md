@@ -56,6 +56,38 @@ The following tools and technologies were used in this project:
 
 • Microsoft Excel / CSV – Used for storing and managing the dataset
 
+🔄 Project Workflow
+
+The project was completed through a structured data analysis process to ensure accurate insights and meaningful visualizations.
+
+• Data Collection
+
+The pizza sales dataset was obtained in CSV format containing transactional records of pizza orders, including order details, product information, and pricing data.
+
+• Data Understanding
+
+The dataset was examined to understand its structure, column definitions, and relationships between different variables such as order date, pizza category, and sales quantity.
+
+• Data Cleaning
+
+Basic data cleaning steps were performed to ensure data quality and consistency. This included checking for missing values, validating data formats, and ensuring accurate column data types.
+
+• SQL Data Analysis
+
+SQL queries were written to analyze the dataset and calculate key metrics such as total revenue, total orders, sales by category, and top-selling pizzas.
+
+• KPI Calculation
+
+Important business KPIs were derived from the dataset to measure sales performance and customer purchasing behavior.
+
+• Dashboard Development
+
+An interactive dashboard was created in Power BI to visualize key insights, including revenue trends, sales distribution by category and size, and top-performing pizzas.
+
+• Insight Generation
+
+The final step involved interpreting the results from the dashboard to identify sales trends, customer preferences, and business opportunities.
+
 📊 Key Performance Indicators (KPIs)
 
 To evaluate the performance of pizza sales, the following KPIs were calculated:
